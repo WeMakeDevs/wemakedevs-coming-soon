@@ -53,7 +53,7 @@ export default function Home() {
     ];
 
     return (
-        <div className='min-h-screen flex flex-col bg-[#141413] text-white px-5 md:px-10 lg:px-20'>
+        <div className='min-h-dvh flex flex-col bg-[#141413] text-white px-5 md:px-10 lg:px-20'>
             <main className='grow flex flex-col gap-20 lg:gap-24 justify-center items-center'>
                 <Image
                     src={logo}
